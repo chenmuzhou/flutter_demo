@@ -1,3 +1,8 @@
+
+
+使用flutter完成的一个微信读书发现页面，
+
+使用到一些flutter的基础控件以及应用方式
 # flutterdemo
 
 A new Flutter application.
